@@ -29,6 +29,7 @@ h1{
 }
 
 .area{
+    overflow: auto;
     font-size: 50px;
     vertical-align: middle;
     white-space: nowrap;

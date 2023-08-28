@@ -9,3 +9,6 @@ type: Checklist
 - [ ] Programmed today?
 - [ ] 24/8
 - [ ] 25/8
+- [ ] 26/8
+- [ ] 27/8
+- [ ] 28/8

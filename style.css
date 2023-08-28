@@ -29,11 +29,9 @@ h1{
 }
 
 .area{
-    overflow: auto;
-    font-size: 50px;
-    vertical-align: middle;
-    white-space: nowrap;
-    display: inline;
+    display: block;
+    max-width: 805px;
+    max-height: 594px;
+    font-size: 25px;
 }
-
 
